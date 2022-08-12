@@ -21,7 +21,7 @@ To save efforts with css effects we'll use material ui.
 -Cleanup react code so that there are less inline styles.<br/>
 -Fetch the total donation amount from root endpoint and connect the progress bar to it.<br/>
 -CSS to make it look like my figma design.<br/>
-
+-Validate ui input(currently only server validation)
 ## Instructions:
 ```
 git clone git@github.com:miromeir/dagshub.git
