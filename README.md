@@ -35,6 +35,7 @@ uvicorn main:app --reload
 ```
 Server should be up now.<br/>
 To run the UI:
+```
 cd dagshub/ui
 yarn install
 yarn start
